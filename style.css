@@ -43,7 +43,7 @@ div.container2 > p:nth-child(2){
 }
 div.container2 > p:nth-child(3){
     color: grey;
-    font-size: 170%;
+    font-size: 150%;
     margin-top: -15px;
     padding-right: 35%;
 }
